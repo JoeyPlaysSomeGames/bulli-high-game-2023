@@ -13,6 +13,8 @@
 
 this game takes place on the street where your walking to school, however you live in bellambi so you must avoid the danger that tries to kill you. 10/10 IGN still better than cyberpunk.
 
+LINK: https://joeyplayssomegames.github.io/bulli-high-game-2023/test1/
+
 # Scope
 
 - 2D game
