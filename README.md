@@ -2,12 +2,14 @@
 
 |                 |                              |
 | --------------- | ---------------------------- |
-| Project Name    | TDB                   |
-| Authors         | Joey Nauruschat the epic guy                 |
-| Target Audience | idiots and babies |
+| Project Name    | Getting to school Simulator  |
+| Authors         | Joey Nauruschat the epic guy |
+| Target Audience | idiots and babies            |
 | Target Platform | Mobile - Web                 |
 | Feature Lock    | 14/11/23                     |
 | Release         | 21/12/23                     |
+
+https://joeyplayssomegames.github.io/bulli-high-game-2023/test3/
 
 ## Theme
 
