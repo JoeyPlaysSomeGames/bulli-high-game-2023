@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Death : MonoBehaviour
 {
@@ -19,6 +20,14 @@ public class Death : MonoBehaviour
         // For example, you can disable the player's movement script, play death animation, or reset the level
 
         // For demonstration purposes, let's destroy the player object
+
         Destroy(player);
+
+
+
+
+        //Application.LoadLevel(Application.loadedLevel);
+
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
