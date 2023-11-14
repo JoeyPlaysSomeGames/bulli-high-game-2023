@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Ouch
+  - Winner
   layers:
   - Default
   - TransparentFX
